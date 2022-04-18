@@ -2,6 +2,7 @@
 
 Testando funções simples, declaração de variáveis, impressão do dado no terminal.
 
+----------------------------------
 
 #First codes studying Java
 

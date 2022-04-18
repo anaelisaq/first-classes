@@ -4,6 +4,6 @@ Testando funções simples, declaração de variáveis, impressão do dado no te
 
 ----------------------------------
 
-###First codes studying Java
+### First codes studying Java
 
 Testing simple functions, declaring variables, printing data in terminal.
